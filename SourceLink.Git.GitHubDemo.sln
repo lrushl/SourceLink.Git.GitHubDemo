@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceLink.Git.GitHubDemo", "SourceLink.Git.GitHubDemo\SourceLink.Git.GitHubDemo.csproj", "{00C287B2-C2B5-491B-A227-52CC66FED880}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceLink.Git.GitHubDemo.Cmd", "SourceLink.Git.GitHubDemo.Cmd\SourceLink.Git.GitHubDemo.Cmd.csproj", "{5BE7D06C-5482-4B88-A36F-F5A49F545114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{00C287B2-C2B5-491B-A227-52CC66FED880}.Release|x64.Build.0 = Release|Any CPU
 		{00C287B2-C2B5-491B-A227-52CC66FED880}.Release|x86.ActiveCfg = Release|Any CPU
 		{00C287B2-C2B5-491B-A227-52CC66FED880}.Release|x86.Build.0 = Release|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Debug|x64.Build.0 = Debug|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Debug|x86.Build.0 = Debug|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Release|x64.ActiveCfg = Release|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Release|x64.Build.0 = Release|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Release|x86.ActiveCfg = Release|Any CPU
+		{5BE7D06C-5482-4B88-A36F-F5A49F545114}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
